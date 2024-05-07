@@ -1,0 +1,3 @@
+This project called MediFlora, i.e. , medicinal plant recognition using leaves.This project is developed using deep learning models like Resnet50, VGG15, and InceptionV3 and got accuracies of 96%,93%,86% respectively.
+Our workflow for the project was like firstly extracting the features of the leaf images that were given as the input and the model recognizes the image and checks whether if it is a medicinal plant or not.
+If the obtained result is medicinal leaf then it will provide the name and description of the resultant plant/tree of the image.Otherwise it will provide the closely matched result.
